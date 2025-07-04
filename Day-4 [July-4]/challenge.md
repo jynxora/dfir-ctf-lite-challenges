@@ -75,3 +75,4 @@ Finding: Found hidden file `...` in `...`
 Detect those quickly,
 Interpret their impact,
 Defend or attack based on context.
+-> Repeat for all 7 tasks.

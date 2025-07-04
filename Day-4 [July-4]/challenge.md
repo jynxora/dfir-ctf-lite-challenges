@@ -29,6 +29,8 @@ chmod 777 /tmp/public.log
 
 
 🔍 Your Tasks (Write each answer in Notion or anywhere you prefer):
+
+
 TASK - 1: List all files (including hidden ones) recursively inside ~/CTF-Lite
 → Show command + output
 

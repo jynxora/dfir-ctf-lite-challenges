@@ -83,6 +83,6 @@ Finding: Found hidden file `...` in `...`
 -------
 
 🧠 You're learning how to:
-Detect those quickly
-Interpret their impact
-Defend or attack based on context
+Detect those quickly,
+Interpret their impact,
+Defend or attack based on context.

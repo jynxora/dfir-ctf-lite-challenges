@@ -10,14 +10,14 @@ This is part of a 700-day challenge I’ve committed to, focused on deep, hands-
 
 ---
 
-## 🧩 July 3 [Day-4] – File Permission Forensics [Beginner Friendly]
+## 🧩 July 4, 2025 [Day-4] – File Permission Forensics [Beginner Friendly]
 
 Challenge: Inspect and identify suspicious files based on Linux file permissions, SUID bits, and directory structure.
 
 📘 Read the full notes:  
-→ [Markdown version](./Day-4/CTFlite-notes.md)  
+→ [Markdown version](./"Day-4 [July-4]"/CTFlite-notes.md)  
 📎 Download PDF:  
-→ [PDF version](./Day-4/CTFlite-notes.pdf)
+→ [PDF version](./"Day-4 [July-4]"/CTFlite-notes.pdf)
 
 ---
 

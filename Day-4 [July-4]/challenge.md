@@ -1,4 +1,4 @@
-# 🧩 CTF-Lite Challenge: July 3 — File Permissions & Suspicious Files
+# 🧩 CTF-Lite Challenge: July 4 — File Permissions & Suspicious Files
 
 
 Welcome to a lightweight DFIR-style CTF.  

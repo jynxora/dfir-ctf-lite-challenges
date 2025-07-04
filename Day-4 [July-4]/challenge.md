@@ -58,10 +58,13 @@ TASK - 7: Search for all .txt or .log files with find
 
 ✅ How to Report/Document:
 
+
 📁 CTF-Lite — File Permission Challenge
+
 
 🧱 Task 1: Recursive listing
 Command: `...`
+
 Finding: Found hidden file `...` in `...`
 
 -------

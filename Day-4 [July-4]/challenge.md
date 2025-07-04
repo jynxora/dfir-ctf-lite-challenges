@@ -12,25 +12,17 @@ KICK IN!!!
 
 mkdir -p ~/CTF-Lite/staging
 cd ~/CTF-Lite/staging
-
-# Create decoy files and folders
 touch README.md notes.txt
 echo "Nothing suspicious here." > notes.txt
 mkdir secrets
 echo "This is a decoy file." > secrets/.invisible.txt
-
-# Now add suspicious files
 mkdir -p vault/.ssh
 echo "Private Key" > vault/.ssh/id_rsa
 chmod 600 vault/.ssh/id_rsa
 touch vault/passwd_shadow
 chmod 000 vault/passwd_shadow
-
-# Make a binary owned by root (you simulate root manually here)
 sudo touch vault/root_exploit.sh
 sudo chmod 4755 vault/root_exploit.sh
-
-# Create a world-writable log file (red flag!)
 touch /tmp/public.log
 chmod 777 /tmp/public.log
 

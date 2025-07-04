@@ -1,10 +1,12 @@
 # 🧩 CTF-Lite Challenge: July 3 — File Permissions & Suspicious Files
 
+
 Welcome to a lightweight DFIR-style CTF.  
 This scenario helps you sharpen your command-line investigation, file permission analysis, and Linux-based forensic thinking.
 It's absolutely beginner firendly and helps build investigative accumen rather than fancy tools that you use thrice a decade.
 KICK IN!!!
----
+
+
 
 📁 Setup Instructions (Run this block to auto-create the scenario):
 

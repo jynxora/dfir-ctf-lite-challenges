@@ -53,8 +53,7 @@ TASK - 7: Search for all .txt or .log files with find
 → Search only inside ~/CTF-Lite
 
 ✅ How to Report/Document:
-
-
+-------
 📁 CTF-Lite — File Permission Challenge
 
 
@@ -63,20 +62,14 @@ Command: `...`
 
 Finding: Found hidden file `...` in `...`
 
--------
-
 🎯 Summary:
 - 1 world-writable file (`...`) → potential abuse
 - 1 SUID file: `...` — escalation risk
 - 1 no-permission file: `...` — inaccessible
-
--------
-
+  
 💬 Takeaways:
 - ...
 - ...
-
--------
 
 🧠 You're learning how to:
 Detect those quickly,

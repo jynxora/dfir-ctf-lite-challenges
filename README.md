@@ -14,23 +14,15 @@ This is part of a 700-day challenge I’ve committed to, focused on deep, hands-
 
 Challenge: Inspect and identify suspicious files based on Linux file permissions, SUID bits, and directory structure.
 
-📘 Read the full notes:  
-→ [Markdown version](./"Day-4"/CTFlite-notes.md)  
-📎 Download PDF:  
-→ [PDF version](./Day-4/CTFlite-notes.pdf)
+📂 Read the full notes and my Report:  
+🧠[Challenge Prompt](./Day-4%20%5BJuly-4%5D/challenge.md)
+📘 [My Full Write-up (Markdown)](./Day-4%20%5BJuly-4%5D/challenge-notes.md)  
+📎[PDF Write-up](./Day-4%20%5BJuly-4%5D/challenge-notes.pdf)
 
 ---
 
-## 🛠️ Stack Used
-- Linux (Kali VM)
-- Bash commands (`ls`, `find`, `cat`, `grep`)
-- Investigative reasoning with terminal output
-
----
-
-## 💬 Contact
+## 💬 Contacts:
 Feel free to fork, improve, or connect:
 - X: [@JynxZero](https://x.com/yourhandle)
 - LinkedIn: [Jinay Shah](https://www.linkedin.com/in/jinay-shah-03472a372/)
 - Medium: [@jynxora](https://medium.com/@jynxora)
-

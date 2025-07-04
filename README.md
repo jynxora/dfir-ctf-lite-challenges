@@ -18,9 +18,9 @@ Challenge: Inspect and identify suspicious files based on Linux file permissions
 
 🧠[Challenge Prompt](./Day-4%20%5BJuly-4%5D/challenge.md)
 
-📘 [My Report/Documentation (Markdown)](./Day-4%20%5BJuly-4%5D/challenge-notes.md)
+📘 Report/Documentation (Markdown): [MD](./Day-4%20%5BJuly-4%5D/challenge-notes.md)
 
-📎[My PDF Report/Documentation (recommended)](./Day-4%20%5BJuly-4%5D/CTF-Lite.pdf)
+📎Report/Documentation (recommended): [PDF](./Day-4%20%5BJuly-4%5D/CTF-Lite.pdf)
 
 ---
 

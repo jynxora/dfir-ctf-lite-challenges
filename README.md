@@ -26,6 +26,6 @@ Challenge: Inspect and identify suspicious files based on Linux file permissions
 
 ## 💬 Contacts:
 Feel free to fork, improve, or connect:
-- X: [@JynxZero](https://x.com/yourhandle)
+- X: [@JynxZero](https://x.com/JynxZero)
 - LinkedIn: [Jinay Shah](https://www.linkedin.com/in/jinay-shah-03472a372/)
 - Medium: [@jynxora](https://medium.com/@jynxora)

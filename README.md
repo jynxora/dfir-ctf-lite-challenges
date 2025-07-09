@@ -1,4 +1,4 @@
-# 🧠 DFIR CTF-Lite Challenge
+# DFIR CTF-Lite Challenge
 
 A public repo to document my ongoing practice in digital forensics and incident response (DFIR) using CTF-style labs and custom-built scenarios.
 
